@@ -71,8 +71,6 @@
   Bootstrap scripts for fresh Debian/Ubuntu to install Docker, Docker Compose, Git; convenience utilities for EC2 networking, Nginx proxy templates, and APT source fixes.  
   Repo: `https://github.com/YOUR_GH_USERNAME/dev-scripts`
 
-> If you would like a demo or architecture graph, I usually render diagrams with Graphviz for precision and repeatability.
-
 ---
 
 ### 🧪 Interests
