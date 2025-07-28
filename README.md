@@ -1,11 +1,3 @@
-<!--
-README for GitHub profile
-Author: Nemit
-Notes:
-1) Replace placeholders like YOUR_GH_USERNAME, YOUR_EMAIL, YOUR_LINKEDIN, and YOUR_BLOG if you want.
-2) To enable the GitHub Stats widgets, search for "Optional: GitHub Widgets" below and replace YOUR_GH_USERNAME.
-3) This README is designed to be readable in both light and dark mode.
--->
 
 <h1 align="center">Hi, I am Nemit 👋</h1>
 
@@ -15,9 +7,7 @@ Notes:
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">Email</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="https://YOUR_BLOG">Blog</a>
+  <a href="aspalt8@gmail.com">Email</a>
 </p>
 
 ---
@@ -74,8 +64,8 @@ Notes:
   Map‑centric restaurant discovery with personalized ranking, ES‑powered search, and social features.  
   *Stack:* React, FastAPI, Elasticsearch, MongoDB, MySQL, Docker, Nginx, AWS, Kakao Maps.  
   Repos:  
-  - Backend: `https://github.com/YOUR_GH_USERNAME/mangoberry-backend`  
-  - Frontend: `https://github.com/YOUR_GH_USERNAME/mangoberry-frontend`  
+  - Service: https://github.com/Nemit0/MangoBerry
+  - Database: https://github.com/Nemit0/database
 
 - **Dev environment scripts (Linux)**  
   Bootstrap scripts for fresh Debian/Ubuntu to install Docker, Docker Compose, Git; convenience utilities for EC2 networking, Nginx proxy templates, and APT source fixes.  
@@ -104,28 +94,6 @@ Notes:
 
 ### 📬 Contact
 
-- The fastest way to reach me is by email: **YOUR_EMAIL**  
-- I also check **LinkedIn**: `https://www.linkedin.com/in/YOUR_LINKEDIN`  
-- Optional: personal blog or notes: `https://YOUR_BLOG`
+- The fastest way to reach me is by email: **aspalt8@gmail.com**  
 
 ---
-
-### 🧩 Optional: GitHub widgets (uncomment and replace YOUR_GH_USERNAME)
-
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GH_USERNAME&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GH_USERNAME" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GH_USERNAME&layout=compact" alt="Top languages" />
-</p>
--->
-
----
-
-<sub>Thanks for stopping by. I build, measure, and iterate — and I document decisions so others can pick up where I left off.</sub>
