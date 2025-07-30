@@ -17,7 +17,7 @@
 - I craft end‑to‑end systems: data pipelines → models → APIs → UX.
 - Comfortable across backend and frontend, with a strong math foundation.
 - Daily driver: Ubuntu on laptop; additional Ubuntu GPU server (RTX 3080 with CUDA) reachable over ZeroTier.
-- Primary editor: Vim; also use VS Code when it makes sense.
+- Primary editor: VS Code.
 - Timezone: Asia/Seoul (UTC+9).
 
 ---
