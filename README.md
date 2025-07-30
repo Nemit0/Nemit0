@@ -67,10 +67,6 @@
   - Service: https://github.com/Nemit0/MangoBerry
   - Database: https://github.com/Nemit0/database
 
-- **Dev environment scripts (Linux)**  
-  Bootstrap scripts for fresh Debian/Ubuntu to install Docker, Docker Compose, Git; convenience utilities for EC2 networking, Nginx proxy templates, and APT source fixes.  
-  Repo: `https://github.com/YOUR_GH_USERNAME/dev-scripts`
-
 ---
 
 ### 🧪 Interests
